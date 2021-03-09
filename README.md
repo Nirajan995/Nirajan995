@@ -49,11 +49,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/Nirajan995/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/Nirajan995/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/Nirajan995/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/Nirajan995/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/Nirajan995/Nirajan995-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/Nirajan995/codestackr-vscode-theme)
+1. ❗️ Closed issue [#8](https://github.com/Nirajan995/free-developer-resources/issues/8) in [Nirajan995/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
+2. 🗣 Commented on [#8](https://github.com/Nirajan995/free-developer-resources/issues/8) in [Nirajan995/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
+3. 🗣 Commented on [#7](https://github.com/Nirajan995/free-developer-resources/issues/7) in [Nirajan995/free-developer-resources](https://github.com/Nirajan995/free-developer-resources)
+4. 🎉 Merged PR [#7](https://github.com/Nirajan995/free-developer-resources/pull/7) in [Nirajan995/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 🗣 Commented on [#3](https://github.com/Nirajan995/Nirajan995-vscode-theme/issues/3) in [Nirajan995/codestackr-vscode-theme](https://github.com/Nirajan995/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nirajan's GitHub Stats" src="https://github-readme-stats.Nirajan995.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nirajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true" />
 
 </details>
 
