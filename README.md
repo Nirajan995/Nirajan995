@@ -1,6 +1,6 @@
-### Hi there, I'm Nirajan- aka [codeSTACKr][website] 👋
+### Hi there, I'm [Nirajan][website] 👋
 
-[![Website](https://img.shields.io/website?label=nirajankunwor.com.np&style=for-the-badge&url=https%3A%2F%2Fnirajankunwor.com.np)](https://nirajankunwor.com.np)
+[![Website](https://img.shields.io/website?label=nirajankunwor&style=for-the-badge&url=https%3A%2F%2Fnirajankunwor.com.np)](https://nirajankunwor.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NIRAJANKUNWOR1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=NIRAJANKUNWOR1)
 
 ## I'm a Computer Engineering Student, JAVA Developer, and I love reading books!!
@@ -48,7 +48,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<<img align="left" alt="Nirajan995's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true" />
+<<img align="left" alt="Nirajan995's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true" />
 
 </details>
 
