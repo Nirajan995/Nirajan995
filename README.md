@@ -39,12 +39,9 @@
 
 ---
 
-<details>
-  
+  <summary>:zap: GitHub Stats</summary>
 
 <<img align="left" alt="Nirajan995's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
 
 [website]: https://nirajankunwor.com.np
 [twitter]: https://twitter.com/NIRAJANKUNWOR1
