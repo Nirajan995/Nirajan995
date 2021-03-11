@@ -39,6 +39,24 @@
 
 ---
 
+query {
+  user(login: "Nirajan995") {
+    repositories(isFork: false, first: 100) {
+      nodes {
+        languages(first: 1) {
+          edges {
+            size
+            node {
+              color
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
   <summary>:zap: GitHub Stats</summary>
 
 <<img align="left" alt="Nirajan995's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nirajan995&show_icons=true&hide_border=true&theme=dracula" />
