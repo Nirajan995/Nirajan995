@@ -38,8 +38,7 @@
 <br />
 
 ---
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajan995&langs_count=5&theme=tokyonight)]()
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Nirajan995" frameborder="0"></iframe>
 
 
   <summary>:zap: GitHub Stats</summary>
