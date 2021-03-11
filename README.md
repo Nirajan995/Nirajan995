@@ -39,7 +39,7 @@
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?Nirajan995=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajan995&langs_count=5&theme=tokyonight)]()
 
 
   <summary>:zap: GitHub Stats</summary>
