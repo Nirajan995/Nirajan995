@@ -39,23 +39,7 @@
 
 ---
 
-query {
-  user(login: "Nirajan995") {
-    repositories(isFork: false, first: 100) {
-      nodes {
-        languages(first: 1) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
-}
+
 
   <summary>:zap: GitHub Stats</summary>
 
