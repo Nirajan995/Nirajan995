@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=nirajankunwor&style=for-the-badge&url=https%3A%2F%2Fnirajankunwor.com.np)](https://nirajankunwor.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NIRAJANKUNWOR1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=NIRAJANKUNWOR1)
 
-## I'm a Computer Engineering Student, JAVA Developer, and I love reading books!!
+## I'm a Computer Engineering Student and I love reading books!!
 
 - 🔭 I am studying engineering at Advanced College of Engineering and Management
 - 🌱 I’m currently learning everything 🤣
