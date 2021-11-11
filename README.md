@@ -8,6 +8,3 @@
 
 <<img align="left" alt="Nirajan995's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nirajan995&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Nirajan995">
-</a>
