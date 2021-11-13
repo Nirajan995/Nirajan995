@@ -1,4 +1,4 @@
-### Hi there, I'm [Nirajan][website] 👋
+### Hi there, I'm Nirajan 👋
 
 [![Website](https://img.shields.io/website?label=nirajankunwor&style=for-the-badge&url=https%3A%2F%2Fnirajankunwor.com.np)](https://nirajankunwor.com.np)
 
