@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=nirajankunwor&style=for-the-badge&url=https%3A%2F%2Fnirajankunwor.com.np)](https://nirajankunwor.com.np)
 
-## I'm a Full stack Javascript Developer.
+## I'm a Full Stack Javascript Developer.
 
   <summary>:zap: GitHub Stats</summary>
 
